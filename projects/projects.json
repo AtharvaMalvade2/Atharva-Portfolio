@@ -21,8 +21,8 @@
   },
   {
     "name": "Portfolio",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
-    "image": "portfolio-",
+    "desc": "Porfolio Project based on HTML, CSS and Javascript.",
+    "image": "portfolio-header-img",
     "category": "mern",
     "links": {
       "view": "https://atharvamalvade2.github.io/Atharva-Portfolio/",
