@@ -28,12 +28,9 @@ The **Portfolio Website** is a fully responsive and personal portfolio designed 
 ✔️ Education\
 ✔️ Projects\
 ✔️ Work Experience\
-<!-- ✔️ Big Projects\ -->
-<!-- ✔️ Achievements And Certifications 🏆\ -->
-<!-- ✔️ Blogs\ -->
 ✔️ Contact me\
 ✔️ Linkedin Profile\
-✔️ GitHub Profile\
+✔️ GitHub Profile
 
 ## 🛠️ Installation Guide
 1. **Clone the Repository**  
