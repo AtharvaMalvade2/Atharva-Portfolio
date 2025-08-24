@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Email Spam Prediction",
+    "desc": "A simple message and email spam prediction system that identifies spam emails and messages based on some predifined spam text",
+    "image": "email-spam-project",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AtharvaMalvade2/SMS-Email-Spam-Classification",
+      "code": "https://github.com/AtharvaMalvade2/SMS-Email-Spam-Classification"
+    }
+  },
+  {
+    "name": "Disease Prediction System",
+    "desc": "This System helps in prediction of 3 diseases based upon the paramters and values that uses enters.",
+    "image": "disease-pred-proj2",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AtharvaMalvade2/Multiple_Disease_Prediction_System",
+      "code": "https://github.com/AtharvaMalvade2/Multiple_Disease_Prediction_System"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
+    "image": "portfolio-",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Smart Door Unlock System",
+    "desc": "It uses the laptop camera to scan images then a simulation of a door which opens only when the face scanned is match anytime",
+    "image": "smart-door-proj",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AtharvaMalvade2/Smart-Door-Unlock-System",
+      "code": "https://github.com/AtharvaMalvade2/Smart-Door-Unlock-System"
+    }
+  },
+  
+  {
+    "name": "Roll Dice Simulator",
+    "desc": "A small project to have fun playing Roll Dice Simulator which goes on endlessly",
+    "image": "roll-dice-proj",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dlife",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis. Magni, iste! Perferendis laborum reprehenderit dolorum totam.",
+    "image": "d'life_",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
