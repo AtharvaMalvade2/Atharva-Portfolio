@@ -9,7 +9,7 @@ The **Portfolio Website** is a fully responsive and personal portfolio designed 
 - [Sections](#portfolio-sections)
 - [Installtion Guide](#installation-guide)
 - [Deployment](#deployment)
-- [For the Future](#future-enhancement)
+- [For the Future](#future-enhancements)
 - [Author](#author)
 
 ## 🎯 Features
